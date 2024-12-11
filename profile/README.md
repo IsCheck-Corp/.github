@@ -1,4 +1,4 @@
-# Android Trading Assistant App
+# Ischeck App
 
 This application is designed to empower traders by assisting them in building trading strategies, opening new trades, and managing their experiences effectively. The app provides analytical tools to help traders improve their performance and progress in the trading world.
 
